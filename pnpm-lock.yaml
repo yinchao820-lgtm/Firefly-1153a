@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  '@mermanjs/web': 0.8.0-alpha.3
+
 importers:
 
   .:
